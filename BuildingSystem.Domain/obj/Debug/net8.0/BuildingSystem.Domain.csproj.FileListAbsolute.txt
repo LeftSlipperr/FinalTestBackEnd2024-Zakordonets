@@ -1,0 +1,13 @@
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\bin\Debug\net8.0\BuildingSystem.Domain.deps.json
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\bin\Debug\net8.0\BuildingSystem.Domain.dll
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\bin\Debug\net8.0\BuildingSystem.Domain.pdb
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\obj\Debug\net8.0\BuildingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\obj\Debug\net8.0\BuildingSystem.Domain.AssemblyInfoInputs.cache
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\obj\Debug\net8.0\BuildingSystem.Domain.AssemblyInfo.cs
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\obj\Debug\net8.0\BuildingSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\obj\Debug\net8.0\BuildingSystem.Domain.sourcelink.json
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\obj\Debug\net8.0\BuildingSystem.Domain.dll
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\obj\Debug\net8.0\refint\BuildingSystem.Domain.dll
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\obj\Debug\net8.0\BuildingSystem.Domain.pdb
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\obj\Debug\net8.0\ref\BuildingSystem.Domain.dll
+D:\Projects\FinalTestBackEnd2024\BuildingSystem.Domain\obj\Debug\net8.0\BuildingSystem.Domain.csproj.AssemblyReference.cache
